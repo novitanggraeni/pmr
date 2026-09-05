@@ -1147,7 +1147,7 @@ SYMPTOMS
 
 .symptom-circle {
 
-    width: 210px;
+    width: 200px;
 
     height: 210px;
 
@@ -1203,7 +1203,7 @@ SYMPTOMS
 
 .symptom {
 
-    padding: 17px;
+    padding: 30px;
 
     border:
         1px solid
@@ -1215,7 +1215,7 @@ SYMPTOMS
 
     display: flex;
 
-    gap: 14px;
+    gap: 16px;
 
     align-items: center;
 
@@ -1228,7 +1228,7 @@ SYMPTOMS
     border-color:
         rgba(255,77,104,0.4);
 
-    transform: translateX(4px);
+    transform: translateX(1px);
 }
 
 
@@ -1236,13 +1236,13 @@ SYMPTOMS
 
     color: var(--red);
 
-    font-size: 10px;
+    font-size: 18px;
 }
 
 
 .symptom span {
 
-    font-size: 12px;
+    font-size: 16px;
 }
 
 
